@@ -222,4 +222,6 @@ int main(void){
     //svuoto lista
     freeList(head);
     head = NULL;
+
+    return 0;
 }
